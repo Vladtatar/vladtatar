@@ -1,4 +1,4 @@
-![1]([https://avatars.githubusercontent.com/u/168975251?v=4](https://github.com/Vladtatar/vladtatar/blob/main/!.jpg))
+![1](!.jpg)
 
 # Привет! Меня зовут Владислав - я аналитик данных
 
