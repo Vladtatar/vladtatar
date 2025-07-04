@@ -42,7 +42,7 @@
 ## Мои контакты
 
 - Email: [vladvlad-09@mail.ru](mailto:vladvlad-09@mail.ru)
-- WhatsApp: [https://png.pngtree.com/png-vector/20230225/ourlarge/pngtree-whatsapp-icon-social-media-png-image_6618452.png] https://wa.me/qr/PVXT5N5CGX4QJ1
+- WhatsApp: [https://png.pngtree.com/png-vector/20230225/ourlarge/pngtree-whatsapp-icon-social-media-png-image_6618452.png] (https://wa.me/qr/PVXT5N5CGX4QJ1)
 - Telegram: [V_N_Tagirov](https://t.me/V_N_Tagirov)
 
 ---
